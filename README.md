@@ -1,7 +1,7 @@
 # TMdb-Data-investigation
 In this repo we will investigate TMdb data, preprocess it, analyze it (EDA) .
 
-#Data:
+# Data:
 
 The data contains 10866 rows and 21 column here is some definetion for the columns:
 
