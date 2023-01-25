@@ -1,7 +1,7 @@
 # TMdb-Data-investigation
 In this repo we will investigate TMdb data, preprocess it, analyze it (EDA) .
 
-# Data:
+## Data:
 
 The data contains 10866 rows and 21 column here is some definetion for the columns:
 
@@ -20,6 +20,6 @@ The data contains 10866 rows and 21 column here is some definetion for the colum
 - vote_average : total average of user voting
 - release_year : year of release for each movie
 
-# Referencess
+## Referencess
 - https://matplotlib.org/stable/gallery/index.html
 - http://seaborn.pydata.org/examples/index.html
